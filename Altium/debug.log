@@ -1,0 +1,124 @@
+[0620/222301:ERROR:ssl_client_socket_openssl.cc(1132)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0620/222304:ERROR:ssl_client_socket_openssl.cc(1132)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0620/222307:ERROR:ssl_client_socket_openssl.cc(1132)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0620/223654:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0620/223659:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0620/223807:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0620/223812:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0620/223817:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0620/223822:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0620/223827:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0620/223832:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0620/223837:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0620/223842:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0620/223847:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0620/223852:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0620/223857:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0620/223902:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/000022:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/000129:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/000134:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/000139:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/000144:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/000149:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/000154:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/000159:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/000204:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/000209:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/000214:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/000219:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/000224:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/035623:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/035730:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/035736:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/035741:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/035746:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/035751:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/035756:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/035801:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/035806:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/035811:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/035816:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/035821:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/035826:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/044508:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/044617:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/044622:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/044627:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/044632:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/044637:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/044642:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/044647:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/044652:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/044657:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/044702:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/044707:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/044712:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/050323:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/050431:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/050436:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/050442:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/050447:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/050452:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/050457:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/050502:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/050507:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/050512:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/050517:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/050522:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/050527:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0625/082902:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
+[0625/082902:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start/ (0)
+[0625/122235:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0625/122240:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0625/122345:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0625/122350:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0625/122355:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0625/122400:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0625/122405:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0625/122410:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0625/122415:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0625/122420:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0625/122425:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0625/122431:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0625/122436:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0625/122441:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0906/221907:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ (0)
+[0906/221907:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ (0)
+[0906/221908:INFO:CONSOLE(0)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.", source:  (0)
+[0906/221908:INFO:CONSOLE(0)] "Setting 'XMLHttpRequest.withCredentials' for synchronous requests is deprecated.", source:  (0)
+[0906/221908:INFO:CONSOLE(242)] "Uncaught SyntaxError: Unexpected token {", source: https://www.altium.com/ (242)
+[0906/221908:INFO:CONSOLE(280)] "Uncaught TypeError: Cannot read property 'utility' of undefined", source: https://www.altium.com/ (280)
+[0906/221908:INFO:CONSOLE(3)] "Uncaught SyntaxError: Unexpected token .", source: https://www.altium.com/sites/default/assets/js/js_FeZw8u-zZ_H33RDEdT7saIaEnqjMXbu2iA-vcTxFUhE.js?scope=header&delta=0&language=en&theme=altium_designer_new&include=eJx1UFtuhDAMvNBCjhSZxASzSYxss1tuX9olCFH1w_F4ZvxQIEZjqJuDA_SjcLUHZKO1-DC7D-rCfHKrGhcXhUbrwgR2E1LmAXJnExbsqI5806lGguoFIwkG0yZHVEoVxVd8tyFqW6aaTouq26OVH5NXBAlTO7R1_pLNmTmxf1NMaMfoK9UvwrFZC8gTjd2Ru5GlnBsrvCiBEVc_ZA5PdSOzofyvTwjxog-6uAtuvE6w_4f7uaOHnP0CCc-lui4oGoQWc3-p5nqBEBiLC7xWk-2RmFNGb5Bc2p973cMMX9-XTMok (3)
+[0906/221908:INFO:CONSOLE(43)] "Uncaught ReferenceError: drupalSettings is not defined", source: https://www.altium.com/modules/contrib/google_tag/js/gtag.js?tksj4v (43)
+[0906/221908:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token ...", source: https://cdn-shared.altium.com/production/dams/dams.min.js (1)
+[0906/221908:INFO:CONSOLE(2)] "Uncaught ReferenceError: Drupal is not defined", source: https://www.altium.com/sites/default/assets/js/js_of3MLlcXi05KmIHSXaEn1-weMpY1PEdzrv3cF6-5xY0.js?scope=footer&delta=2&language=en&theme=altium_designer_new&include=eJx1UFtuhDAMvNBCjhSZxASzSYxss1tuX9olCFH1w_F4ZvxQIEZjqJuDA_SjcLUHZKO1-DC7D-rCfHKrGhcXhUbrwgR2E1LmAXJnExbsqI5806lGguoFIwkG0yZHVEoVxVd8tyFqW6aaTouq26OVH5NXBAlTO7R1_pLNmTmxf1NMaMfoK9UvwrFZC8gTjd2Ru5GlnBsrvCiBEVc_ZA5PdSOzofyvTwjxog-6uAtuvE6w_4f7uaOHnP0CCc-lui4oGoQWc3-p5nqBEBiLC7xWk-2RmFNGb5Bc2p973cMMX9-XTMok (2)
+[0906/221908:INFO:CONSOLE(3)] "Uncaught SyntaxError: Unexpected token .", source: https://cdn-shared.altium.com/production/drift/driftChat.js (3)
+[0906/221908:INFO:CONSOLE(10)] "Uncaught SyntaxError: Unexpected token .", source: https://www.altium.com/sites/default/assets/js/js_nc5v9AhpwrRgMQXxTLtqq2sQ5Yl0XTvB_QCchbAlRyk.js?scope=footer&delta=4&language=en&theme=altium_designer_new&include=eJx1UFtuhDAMvNBCjhSZxASzSYxss1tuX9olCFH1w_F4ZvxQIEZjqJuDA_SjcLUHZKO1-DC7D-rCfHKrGhcXhUbrwgR2E1LmAXJnExbsqI5806lGguoFIwkG0yZHVEoVxVd8tyFqW6aaTouq26OVH5NXBAlTO7R1_pLNmTmxf1NMaMfoK9UvwrFZC8gTjd2Ru5GlnBsrvCiBEVc_ZA5PdSOzofyvTwjxog-6uAtuvE6w_4f7uaOHnP0CCc-lui4oGoQWc3-p5nqBEBiLC7xWk-2RmFNGb5Bc2p973cMMX9-XTMok (10)
+[0906/221909:INFO:CONSOLE(399)] "Uncaught SyntaxError: Unexpected token ...", source: https://cdn.files.altium.com/themes/master-1788440072/web/themes/custom/altium_designer_new/js/altium_func.js (399)
+[0906/221909:INFO:CONSOLE(2)] "Uncaught ReferenceError: Drupal is not defined", source: https://www.altium.com/sites/default/assets/js/js_AANlpwsgV0MUpkoikm50jqMwJ7z9MfifiOLwsANDTiM.js?scope=footer&delta=26&language=en&theme=altium_designer_new&include=eJx1UFtuhDAMvNBCjhSZxASzSYxss1tuX9olCFH1w_F4ZvxQIEZjqJuDA_SjcLUHZKO1-DC7D-rCfHKrGhcXhUbrwgR2E1LmAXJnExbsqI5806lGguoFIwkG0yZHVEoVxVd8tyFqW6aaTouq26OVH5NXBAlTO7R1_pLNmTmxf1NMaMfoK9UvwrFZC8gTjd2Ru5GlnBsrvCiBEVc_ZA5PdSOzofyvTwjxog-6uAtuvE6w_4f7uaOHnP0CCc-lui4oGoQWc3-p5nqBEBiLC7xWk-2RmFNGb5Bc2p973cMMX9-XTMok (2)
+[0906/221909:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token =", source: https://cdn-shared.altium.com/production/navigation_new/app/dist_prod_server_html/footer.js (1)
+[0906/221909:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token ...", source: https://cdn-shared.altium.com/production/navigation_new/app/dist_prod_server_html/header.js (1)
+[0906/221909:INFO:CONSOLE(2)] "Uncaught ReferenceError: Drupal is not defined", source: https://www.altium.com/sites/default/assets/js/js_uz9CsSDelZjNvzjGoEKJPINCjqSZl75yRwtpLDHQLWQ.js?scope=footer&delta=31&language=en&theme=altium_designer_new&include=eJx1UFtuhDAMvNBCjhSZxASzSYxss1tuX9olCFH1w_F4ZvxQIEZjqJuDA_SjcLUHZKO1-DC7D-rCfHKrGhcXhUbrwgR2E1LmAXJnExbsqI5806lGguoFIwkG0yZHVEoVxVd8tyFqW6aaTouq26OVH5NXBAlTO7R1_pLNmTmxf1NMaMfoK9UvwrFZC8gTjd2Ru5GlnBsrvCiBEVc_ZA5PdSOzofyvTwjxog-6uAtuvE6w_4f7uaOHnP0CCc-lui4oGoQWc3-p5nqBEBiLC7xWk-2RmFNGb5Bc2p973cMMX9-XTMok (2)
+[0906/221909:INFO:CONSOLE(2)] "Uncaught ReferenceError: Drupal is not defined", source: https://www.altium.com/sites/default/assets/js/js_ihquj5oRz84nZw1ybPFh5hwved5RDWJexQNZI2EiF9E.js?scope=footer&delta=33&language=en&theme=altium_designer_new&include=eJx1UFtuhDAMvNBCjhSZxASzSYxss1tuX9olCFH1w_F4ZvxQIEZjqJuDA_SjcLUHZKO1-DC7D-rCfHKrGhcXhUbrwgR2E1LmAXJnExbsqI5806lGguoFIwkG0yZHVEoVxVd8tyFqW6aaTouq26OVH5NXBAlTO7R1_pLNmTmxf1NMaMfoK9UvwrFZC8gTjd2Ru5GlnBsrvCiBEVc_ZA5PdSOzofyvTwjxog-6uAtuvE6w_4f7uaOHnP0CCc-lui4oGoQWc3-p5nqBEBiLC7xWk-2RmFNGb5Bc2p973cMMX9-XTMok (2)
+[0906/221909:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: about:blank (0)
+[0906/221909:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: about:blank (0)
+[0906/221909:INFO:CONSOLE(144)] "Attempting to initialize MktoForms2 (attempt 1/5)", source: https://www.altium.com/ (144)
+[0906/221909:INFO:CONSOLE(159)] "Loading MktoForms2 script", source: https://www.altium.com/ (159)
+[0906/221909:INFO:CONSOLE(461)] "Uncaught TypeError: window.DriftChat is not a constructor", source: https://www.altium.com/ (461)
+[0906/221909:INFO:CONSOLE(1)] "Uncaught TypeError: Object.entries is not a function", source: https://cdn.files.altium.com/themes/master-1788440072/web/themes/custom/altium_designer_new/html/dist/js/main.min.js (1)
+[0906/221909:INFO:CONSOLE(465)] "Uncaught TypeError: window.DriftChat is not a constructor", source: https://www.altium.com/ (465)
+[0906/221909:INFO:CONSOLE(362)] "q-start", source: https://www.altium.com/ (362)
+[0906/221910:INFO:CONSOLE(0)] "XMLHttpRequest cannot load https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location. No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://www.altium.com' is therefore not allowed access. The response had HTTP status code 403.", source: https://www.altium.com/ (0)
+[0906/221910:INFO:CONSOLE(144)] "Attempting to initialize MktoForms2 (attempt 2/5)", source: https://www.altium.com/ (144)
+[0906/221910:INFO:CONSOLE(151)] "Uncaught ReferenceError: globalThis is not defined", source: https://www.googletagmanager.com/gtm.js?id=GTM-5LFC7W (151)
+[0906/221910:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected token ...", source: https://js.qualified.com/qualified.js?token=9Ye7VbKcmoDFGWrj (4)
+[0906/221910:INFO:CONSOLE(7)] "Uncaught (in promise) TypeError: Object.entries is not a function", source: https://cdn.cookielaw.org/scripttemplates/202606.2.0/otBannerSdk.js (7)
+[0906/221911:INFO:CONSOLE(144)] "Attempting to initialize MktoForms2 (attempt 3/5)", source: https://www.altium.com/ (144)
+[0906/221911:INFO:CONSOLE(146)] "MktoForms2 found, registering form handler", source: https://www.altium.com/ (146)
+[0906/221911:INFO:CONSOLE(149)] "Registering onFormRender handler for dynamically added forms", source: https://www.altium.com/ (149)
+[0906/221923:INFO:CONSOLE(175)] "Timeout reached waiting for MktoForms2", source: https://www.altium.com/ (175)
+[0906/221949:INFO:CONSOLE(143)] "Uncaught TypeError: link.closest(...).after is not a function", source: https://cdn-shared.altium.com/production/onetrust/onetrust.js (143)
